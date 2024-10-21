@@ -1,0 +1,148 @@
+[ {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 1,
+  "errorCode" : "INVALID_BIRTH_YEAR",
+  "errorClassificationName" : "Birth year is before 1995",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 11,
+  "errorCode" : "INVALID_NATIONAL_ID",
+  "errorClassificationName" : "National ID must be 10 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 13,
+  "errorCode" : "INVALID_NATIONAL_ID",
+  "errorClassificationName" : "National ID must be 10 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 16,
+  "errorCode" : "INVALID_BIRTH_YEAR",
+  "errorClassificationName" : "Birth year is before 1995",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 16,
+  "errorCode" : "INVALID_NATIONAL_ID",
+  "errorClassificationName" : "National ID must be 10 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 18,
+  "errorCode" : "INVALID_NATIONAL_ID",
+  "errorClassificationName" : "National ID must be 10 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 25,
+  "errorCode" : "INVALID_BIRTH_YEAR",
+  "errorClassificationName" : "Birth year is before 1995",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 32,
+  "errorCode" : "INVALID_NATIONAL_ID",
+  "errorClassificationName" : "National ID must be 10 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 34,
+  "errorCode" : "INVALID_NATIONAL_ID",
+  "errorClassificationName" : "National ID must be 10 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 37,
+  "errorCode" : "INVALID_NATIONAL_ID",
+  "errorClassificationName" : "National ID must be 10 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 38,
+  "errorCode" : "INVALID_NATIONAL_ID",
+  "errorClassificationName" : "National ID must be 10 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 39,
+  "errorCode" : "INVALID_NATIONAL_ID",
+  "errorClassificationName" : "National ID must be 10 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 40,
+  "errorCode" : "INVALID_BIRTH_YEAR",
+  "errorClassificationName" : "Birth year is before 1995",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 41,
+  "errorCode" : "INVALID_BIRTH_YEAR",
+  "errorClassificationName" : "Birth year is before 1995",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 44,
+  "errorCode" : "INVALID_BIRTH_YEAR",
+  "errorClassificationName" : "Birth year is before 1995",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 46,
+  "errorCode" : "INVALID_BIRTH_YEAR",
+  "errorClassificationName" : "Birth year is before 1995",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 47,
+  "errorCode" : "INVALID_BIRTH_YEAR",
+  "errorClassificationName" : "Birth year is before 1995",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 53,
+  "errorCode" : "INVALID_NATIONAL_ID",
+  "errorClassificationName" : "National ID must be 10 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 56,
+  "errorCode" : "INVALID_BIRTH_YEAR",
+  "errorClassificationName" : "Birth year is before 1995",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 56,
+  "errorCode" : "INVALID_NATIONAL_ID",
+  "errorClassificationName" : "National ID must be 10 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Customers.csv",
+  "recordNumber" : 61,
+  "errorCode" : "INVALID_BIRTH_YEAR",
+  "errorClassificationName" : "Birth year is before 1995",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+} ]

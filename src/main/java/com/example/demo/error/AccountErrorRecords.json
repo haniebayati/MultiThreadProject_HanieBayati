@@ -1,0 +1,120 @@
+[ {
+  "fileName" : "Accounts.csv",
+  "recordNumber" : 1,
+  "errorCode" : "INVALID_BALANCE",
+  "errorClassificationName" : "Balance is less than account limit",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 2,
+  "errorCode" : "PARSE_ERROR",
+  "errorClassificationName" : "Parse Failure",
+  "errorDescription" : "No enum constant com.example.demo.model.AccountType.recurringDepositt",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 7,
+  "errorCode" : "PARSE_ERROR",
+  "errorClassificationName" : "Parse Failure",
+  "errorDescription" : "No enum constant com.example.demo.model.AccountType.saings",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 4,
+  "errorCode" : "PARSE_ERROR",
+  "errorClassificationName" : "Parse Failure",
+  "errorDescription" : "No enum constant com.example.demo.model.AccountType.avings",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Accounts.csv",
+  "recordNumber" : 11,
+  "errorCode" : "INVALID_BALANCE",
+  "errorClassificationName" : "Balance is less than account limit",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 20,
+  "errorCode" : "PARSE_ERROR",
+  "errorClassificationName" : "Parse Failure",
+  "errorDescription" : "No enum constant com.example.demo.model.AccountType.recuringDeposit",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 27,
+  "errorCode" : "PARSE_ERROR",
+  "errorClassificationName" : "Parse Failure",
+  "errorDescription" : "No enum constant com.example.demo.model.AccountType.fixedDepositAccount1017",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 31,
+  "errorCode" : "PARSE_ERROR",
+  "errorClassificationName" : "Parse Failure",
+  "errorDescription" : "For input string: \"null\"",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 47,
+  "errorCode" : "PARSE_ERROR",
+  "errorClassificationName" : "Parse Failure",
+  "errorDescription" : "For input string: \"null\"",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 53,
+  "errorCode" : "PARSE_ERROR",
+  "errorClassificationName" : "Parse Failure",
+  "errorDescription" : "No enum constant com.example.demo.model.AccountType.recurringDposit",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 58,
+  "errorCode" : "PARSE_ERROR",
+  "errorClassificationName" : "Parse Failure",
+  "errorDescription" : "No enum constant com.example.demo.model.AccountType.savigs",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 70,
+  "errorCode" : "PARSE_ERROR",
+  "errorClassificationName" : "Parse Failure",
+  "errorDescription" : "No enum constant com.example.demo.model.AccountType.savingls",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Accounts.csv",
+  "recordNumber" : 97,
+  "errorCode" : "INVALID_ACCOUNT_NUMBER",
+  "errorClassificationName" : "Account number must be 22 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Accounts.csv",
+  "recordNumber" : 98,
+  "errorCode" : "INVALID_ACCOUNT_NUMBER",
+  "errorClassificationName" : "Account number must be 22 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Accounts.csv",
+  "recordNumber" : 99,
+  "errorCode" : "INVALID_ACCOUNT_NUMBER",
+  "errorClassificationName" : "Account number must be 22 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "Accounts.csv",
+  "recordNumber" : 100,
+  "errorCode" : "INVALID_ACCOUNT_NUMBER",
+  "errorClassificationName" : "Account number must be 22 digits",
+  "errorDescription" : "Validation Error",
+  "errorDate" : "2024-10-21"
+}, {
+  "fileName" : "accounts.csv",
+  "recordNumber" : 101,
+  "errorCode" : "PARSE_ERROR",
+  "errorClassificationName" : "Parse Failure",
+  "errorDescription" : "No enum constant com.example.demo.model.AccountType.invalidType",
+  "errorDate" : "2024-10-21"
+} ]

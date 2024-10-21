@@ -1,0 +1,305 @@
+[ {
+  "customerId" : 1002,
+  "name" : "Jane",
+  "surname" : "Smith",
+  "nationalId" : "1212522791",
+  "accountNumber" : "1234567890123456789016",
+  "openDate" : "2023-01-05",
+  "balance" : 1900.0
+}, {
+  "customerId" : 1002,
+  "name" : "Jane",
+  "surname" : "Smith",
+  "nationalId" : "1212522791",
+  "accountNumber" : "1234567890123456789103",
+  "openDate" : "2023-04-03",
+  "balance" : 1100.0
+}, {
+  "customerId" : 1006,
+  "name" : "Sara",
+  "surname" : "Wilson",
+  "nationalId" : "8563567895",
+  "accountNumber" : "1234567890123456789019",
+  "openDate" : "2023-01-08",
+  "balance" : 1100.0
+}, {
+  "customerId" : 1006,
+  "name" : "Sara",
+  "surname" : "Wilson",
+  "nationalId" : "8563567895",
+  "accountNumber" : "1234567890123456789027",
+  "openDate" : "2023-01-16",
+  "balance" : 2100.0
+}, {
+  "customerId" : 1015,
+  "name" : "Invalid",
+  "surname" : "User5",
+  "nationalId" : "1235567895",
+  "accountNumber" : "1234567890123456789025",
+  "openDate" : "2023-01-14",
+  "balance" : 2600.0
+}, {
+  "customerId" : 1020,
+  "name" : "Invalid",
+  "surname" : "User10",
+  "nationalId" : "1214567895",
+  "accountNumber" : "1234567890123456789023",
+  "openDate" : "2023-01-12",
+  "balance" : 2200.0
+}, {
+  "customerId" : 1020,
+  "name" : "Invalid",
+  "surname" : "User10",
+  "nationalId" : "1214567895",
+  "accountNumber" : "1234567890123456789024",
+  "openDate" : "2023-01-13",
+  "balance" : 1300.0
+}, {
+  "customerId" : 1020,
+  "name" : "Invalid",
+  "surname" : "User10",
+  "nationalId" : "1214567895",
+  "accountNumber" : "1234567890123456789030",
+  "openDate" : "2023-01-19",
+  "balance" : 1200.0
+}, {
+  "customerId" : 1021,
+  "name" : "Alex",
+  "surname" : "Robinson",
+  "nationalId" : "1934567890",
+  "accountNumber" : "1234567890123456789032",
+  "openDate" : "2023-01-21",
+  "balance" : 2100.0
+}, {
+  "customerId" : 1022,
+  "name" : "Amy",
+  "surname" : "Anderson",
+  "nationalId" : "1236567891",
+  "accountNumber" : "1234567890123456789033",
+  "openDate" : "2023-01-22",
+  "balance" : 3100.0
+}, {
+  "customerId" : 1023,
+  "name" : "David",
+  "surname" : "Martinez",
+  "nationalId" : "1234267892",
+  "accountNumber" : "1234567890123456789104",
+  "openDate" : "2023-04-04",
+  "balance" : 1600.0
+}, {
+  "customerId" : 1024,
+  "name" : "Kate",
+  "surname" : "Thompson",
+  "nationalId" : "1234597893",
+  "accountNumber" : "1234567890123456789035",
+  "openDate" : "2023-01-24",
+  "balance" : 2000.0
+}, {
+  "customerId" : 1026,
+  "name" : "Rachel",
+  "surname" : "Lopez",
+  "nationalId" : "1266567895",
+  "accountNumber" : "1234567890123456789037",
+  "openDate" : "2023-01-26",
+  "balance" : 1600.0
+}, {
+  "customerId" : 1035,
+  "name" : "Invalid",
+  "surname" : "User15",
+  "nationalId" : "6234567895",
+  "accountNumber" : "1234567890123456789048",
+  "openDate" : "2023-02-07",
+  "balance" : 1200.0
+}, {
+  "customerId" : 1042,
+  "name" : "Jane",
+  "surname" : "Smith",
+  "nationalId" : "1212567891",
+  "accountNumber" : "1234567890123456789053",
+  "openDate" : "2023-02-12",
+  "balance" : 1300.0
+}, {
+  "customerId" : 1045,
+  "name" : "Tom",
+  "surname" : "Taylor",
+  "nationalId" : "4234567894",
+  "accountNumber" : "1234567890123456789056",
+  "openDate" : "2023-02-15",
+  "balance" : 1700.0
+}, {
+  "customerId" : 1048,
+  "name" : "Laura",
+  "surname" : "Garcia",
+  "nationalId" : "1234565297",
+  "accountNumber" : "1234567890123456789059",
+  "openDate" : "2023-02-18",
+  "balance" : 3500.0
+}, {
+  "customerId" : 1048,
+  "name" : "Laura",
+  "surname" : "Garcia",
+  "nationalId" : "1234565297",
+  "accountNumber" : "1234567890123456789089",
+  "openDate" : "2023-03-20",
+  "balance" : 2600.0
+}, {
+  "customerId" : 1049,
+  "name" : "Michael",
+  "surname" : "Lee",
+  "nationalId" : "1234996598",
+  "accountNumber" : "1234567890123456789040",
+  "openDate" : "2023-01-29",
+  "balance" : 1500.0
+}, {
+  "customerId" : 1049,
+  "name" : "Michael",
+  "surname" : "Lee",
+  "nationalId" : "1234996598",
+  "accountNumber" : "1234567890123456789100",
+  "openDate" : "2023-03-31",
+  "balance" : 2100.0
+}, {
+  "customerId" : 1050,
+  "name" : "Emily",
+  "surname" : "Kim",
+  "nationalId" : "1234547899",
+  "accountNumber" : "1234567890123456789041",
+  "openDate" : "2023-01-30",
+  "balance" : 1500.0
+}, {
+  "customerId" : 1050,
+  "name" : "Emily",
+  "surname" : "Kim",
+  "nationalId" : "1234547899",
+  "accountNumber" : "1234567890123456789046",
+  "openDate" : "2023-02-05",
+  "balance" : 1900.0
+}, {
+  "customerId" : 1050,
+  "name" : "Emily",
+  "surname" : "Kim",
+  "nationalId" : "1234547899",
+  "accountNumber" : "1234567890123456789061",
+  "openDate" : "2023-02-20",
+  "balance" : 1800.0
+}, {
+  "customerId" : 1050,
+  "name" : "Emily",
+  "surname" : "Kim",
+  "nationalId" : "1234547899",
+  "accountNumber" : "1234567890123456789085",
+  "openDate" : "2023-03-16",
+  "balance" : 3500.0
+}, {
+  "customerId" : 1051,
+  "name" : "hanie",
+  "surname" : "User21",
+  "nationalId" : "1234567800",
+  "accountNumber" : "1234567890123456789062",
+  "openDate" : "2023-02-21",
+  "balance" : 2100.0
+}, {
+  "customerId" : 1052,
+  "name" : "ghfj",
+  "surname" : "User22",
+  "nationalId" : "1234567884",
+  "accountNumber" : "1234567890123456789063",
+  "openDate" : "2023-02-22",
+  "balance" : 1200.0
+}, {
+  "customerId" : 1055,
+  "name" : "Invalid78",
+  "surname" : "User25",
+  "nationalId" : "9034567895",
+  "accountNumber" : "1234567890123456789086",
+  "openDate" : "2023-03-17",
+  "balance" : 1700.0
+}, {
+  "customerId" : 1059,
+  "name" : "Invalid48",
+  "surname" : "User29",
+  "nationalId" : "1234567875",
+  "accountNumber" : "1234567890123456789090",
+  "openDate" : "2023-03-21",
+  "balance" : 1200.0
+}, {
+  "customerId" : 1060,
+  "name" : "Invalid555",
+  "surname" : "User30",
+  "nationalId" : "1234567885",
+  "accountNumber" : "1234567890123456789071",
+  "openDate" : "2023-03-02",
+  "balance" : 3100.0
+}, {
+  "customerId" : 1062,
+  "name" : "Amy",
+  "surname" : "Anderson",
+  "nationalId" : "1234567891",
+  "accountNumber" : "1234567890123456789073",
+  "openDate" : "2023-03-04",
+  "balance" : 2000.0
+}, {
+  "customerId" : 1064,
+  "name" : "Kate",
+  "surname" : "Thompson",
+  "nationalId" : "1234567893",
+  "accountNumber" : "1234567890123456789075",
+  "openDate" : "2023-03-06",
+  "balance" : 3100.0
+}, {
+  "customerId" : 1065,
+  "name" : "Paul",
+  "surname" : "Hernandez",
+  "nationalId" : "1234567894",
+  "accountNumber" : "1234567890123456789076",
+  "openDate" : "2023-03-07",
+  "balance" : 1600.0
+}, {
+  "customerId" : 1066,
+  "name" : "Rachel",
+  "surname" : "Lopez",
+  "nationalId" : "1234567895",
+  "accountNumber" : "1234567890123456789047",
+  "openDate" : "2023-02-06",
+  "balance" : 2600.0
+}, {
+  "customerId" : 1066,
+  "name" : "Rachel",
+  "surname" : "Lopez",
+  "nationalId" : "1234567895",
+  "accountNumber" : "1234567890123456789077",
+  "openDate" : "2023-03-08",
+  "balance" : 2000.0
+}, {
+  "customerId" : 1066,
+  "name" : "Rachel",
+  "surname" : "Lopez",
+  "nationalId" : "1234567895",
+  "accountNumber" : "1234567890123456789107",
+  "openDate" : "2023-04-07",
+  "balance" : 1300.0
+}, {
+  "customerId" : 1067,
+  "name" : "Kevin",
+  "surname" : "Clark",
+  "nationalId" : "1234567896",
+  "accountNumber" : "1234567890123456789078",
+  "openDate" : "2023-03-09",
+  "balance" : 1300.0
+}, {
+  "customerId" : 1069,
+  "name" : "George",
+  "surname" : "Hall",
+  "nationalId" : "1234567898",
+  "accountNumber" : "1234567890123456789080",
+  "openDate" : "2023-03-11",
+  "balance" : 4200.0
+}, {
+  "customerId" : 1070,
+  "name" : "Nancy",
+  "surname" : "Allen",
+  "nationalId" : "1234567899",
+  "accountNumber" : "1234567890123456789083",
+  "openDate" : "2023-03-14",
+  "balance" : 1500.0
+} ]
